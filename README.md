@@ -1,3 +1,3 @@
 # test_trailhead
-test newbranch
-test conflict 1
+test
+test conf 2
